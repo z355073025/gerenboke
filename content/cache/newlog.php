@@ -1,0 +1,1 @@
+<?php exit;//a:5:{i:0;a:2:{s:3:"gid";i:34;s:5:"title";s:12:"扫码回调";}i:1;a:2:{s:3:"gid";i:33;s:5:"title";s:12:"扫码支付";}i:2;a:2:{s:3:"gid";i:32;s:5:"title";s:21:"tp5分页遍历问题";}i:3;a:2:{s:3:"gid";i:31;s:5:"title";s:37:"tp5execl批量导入带图片的execl";}i:4;a:2:{s:3:"gid";i:30;s:5:"title";s:21:"获取文件名后缀";}}
